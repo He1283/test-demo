@@ -4,6 +4,10 @@ til test
 jeg tilføjer her en ny linje
 nu kan jeg skrive noget mere
 
+test linux
+
+
+
 ### her kommer der noget sql kode
 
 `select * from test`
