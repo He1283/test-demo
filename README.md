@@ -17,5 +17,5 @@ from test o
 ```
 select
 distinct o.kode
-from test 
+from test o
 ```
