@@ -2,15 +2,20 @@
 ## En test
 til test
 jeg tilføjer her en ny linje
-nu kan jeg skrive noget mere 
+nu kan jeg skrive noget mere
 
 ### her kommer der noget sql kode
 
 `select * from test`
 
 ```
-select 
-o.kode 
+select
+o.kode
 from test o
 ```
 
+```
+select
+distinct o.kode
+from test 
+```
